@@ -4,15 +4,15 @@
     <!--[if ltIE9]>
        <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
      <![endif]-->
-	 <header><h3>Contact Us!</h3></header>
-    <p>Inside the source of this file, you can un-comment and test 
+	 <!--<header><h3>Contact Zhongyuan</h3></header>-->
+    <!--<p>Inside the source of this file, you can un-comment and test 
         2 different types of forms:
         <div class="indent">
             <ul>
                 <li><b>loadContact('simple.php');</b> - a simple contact form with reCAPTCHA</li>
                 <li><b>loadContact('multiple.php');</b> - a complex form with reCAPTCHA</li>
             </ul>
-        </div>    
+        </div>-->
     
 	<?php
         /*
